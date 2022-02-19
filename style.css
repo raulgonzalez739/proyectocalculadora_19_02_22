@@ -12,7 +12,7 @@ body
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #204c62;
+    background: #242729;
 }
 .calculadora
 {
@@ -59,7 +59,7 @@ body
 {
     grid-column: span 2;
     width: 120px;
-    background: #28069b;
+    background: #18075028;
 }
 .calculadora span.equal
 {
