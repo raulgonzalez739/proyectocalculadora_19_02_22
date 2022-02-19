@@ -39,10 +39,11 @@ body
     place-items: center;
     border: 1px solid rgba(0, 0, 0, 1);
 }
-.calculadora span:active
+.calculadora span:hover
 {
-    background: #45fa0eb0;
-    color: #204c62;
+    background: #0efaeeb0;
+    color: #050d11;
+    cursor: pointer;
 }
 .calculadora span.clear
 {
@@ -59,7 +60,7 @@ body
 {
     grid-column: span 2;
     width: 120px;
-    background: #18075028;
+    background: #e9f671af;
 }
 .calculadora span.equal
 {
